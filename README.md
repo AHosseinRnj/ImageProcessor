@@ -3,7 +3,8 @@
 </p>
 
 # ImageProcessor
-> Simple Image Processor for university project.
+> Simple image processor project for university special topics course.
+
 
 ### Software Pictures
 | Pic: |
